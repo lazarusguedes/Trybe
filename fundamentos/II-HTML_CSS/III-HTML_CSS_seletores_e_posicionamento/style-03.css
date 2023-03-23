@@ -1,0 +1,12 @@
+h1, p {
+    text-align: center;
+}
+ol:hover {
+    background-color: aquamarine;
+}
+.ol_li:active {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.list {
+    list-style: none;
+}
