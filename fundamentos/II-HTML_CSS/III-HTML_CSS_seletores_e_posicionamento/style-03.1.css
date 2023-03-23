@@ -1,0 +1,41 @@
+div:hover {
+    border: 2px solid red;
+}
+#primária {
+    background-color: blueviolet;
+}
+#h3_primária {
+    font-size: x-large;
+    font-style: italic;
+}
+
+#secundária {
+    background-color: goldenrod;
+}
+#h3_secundária {
+    color: beige;
+}
+
+#complementar {
+    background-color: darkcyan;
+    height: 80px;
+}
+#h3_complementar {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#escura {
+    background-color: antiquewhite;
+}
+#h3_escura {
+    text-decoration: overline;
+}
+
+#clara {
+    background-color: lawngreen;
+}
+#h3_clara {
+    text-decoration: line-through;
+    font-style: italic;
+}
